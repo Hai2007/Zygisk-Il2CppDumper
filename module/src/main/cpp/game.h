@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.vng.mobile"
+#define GamePackageName "com.loadcomplete.slimeidle"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
