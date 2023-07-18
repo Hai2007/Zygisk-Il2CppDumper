@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.cookapps.newdemonslayer"
+#define GamePackageName "com.idle.pseudo3d.hero"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
