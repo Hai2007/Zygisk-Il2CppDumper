@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.idle.pseudo3d.hero"
+#define GamePackageName "com.hiepkhach.truyenky.chibi"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
