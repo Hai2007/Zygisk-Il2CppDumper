@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.camelgames.aoz.vn"
+#define GamePackageName "com.superplanet.airship"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
