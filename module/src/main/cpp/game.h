@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.mobirix.g2gmg"
+#define GamePackageName "com.combo.heroes.puzzle.rpg"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
