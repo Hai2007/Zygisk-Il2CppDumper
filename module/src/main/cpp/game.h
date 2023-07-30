@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.gameloft.android.ANMP.GloftDOHM"
+#define GamePackageName "com.cyg.novafly.us.gp"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
