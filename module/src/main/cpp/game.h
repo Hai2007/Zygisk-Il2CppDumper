@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.playhardlab.heroes"
+#define GamePackageName "com.playhardllshshssb"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
