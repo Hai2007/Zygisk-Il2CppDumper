@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.global.dqvn"
+#define GamePackageName "com.brotato.shooting.survivors.action.roguelike"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
